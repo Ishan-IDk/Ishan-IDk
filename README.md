@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Ishan Singh</h1>
 <h3 align="center">I love to do Python, Web Dev, Game Dev, Graphic Design</h3>
 
-- ⚡ I’m currently working on **Game Dev**
-
+<h3 align="center">- ⚡ I’m currently working on **Game Dev**
+<br>
 - 🔰 I’m currently learning **C++ and react.js**
-
+</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ishannn.notagain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishannn.notagain" height="30" width="40" /></a>
@@ -16,6 +16,5 @@
 <h3 align="left">Stats:</h3>
 <div style='display:flex; align-items:center;'>
   <img src="https://github-readme-stats.vercel.app/api?username=Ishan-IDk&show_icons=true&theme=dark&rank_icon=github">
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishan-idk&theme=dark" alt="ishan-idk" /></p>
 </div>
