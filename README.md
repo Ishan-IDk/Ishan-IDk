@@ -7,6 +7,7 @@
  🔰 I’m currently learning **C++ and react.js**
 </h4>
 
+<p>Check something cool - <a href="https://ishan-idk.github.io/Invicta/">invicta</a></p>
 <p>Check something cool - <a href="https://ishan-idk.github.io/aivoxel/">voxel ai</a></p>
 
 <h3 align="left">Connect with me:</h3>
