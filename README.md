@@ -12,7 +12,7 @@
 <p align="left">- 🔭 I’m working on Project Zero<br>- 📚 I'm currently learning C++</p>
 
 ###
-<br><br>
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
