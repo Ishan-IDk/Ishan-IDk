@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-size:28px; font-family:'Montserrat';">Hello&nbsp;<img src="https://em-content.zobj.net/source/skype/295/waving-hand_1f44b.png" style="width: 23px;height: 23px;margin-left: 8px;"> I'm Ishan Singh
+<h1 align="center" style="font-size:28px; font-family:'Montserrat';">Hello&nbsp;<img src="https://em-content.zobj.net/source/skype/295/waving-hand_1f44b.png" style="width: 23px;height: 23px;margin-left: 8px;">, I'm Ishan Singh
 							
 </h1>
 
