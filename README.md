@@ -1,4 +1,7 @@
-<h1 align="center" style="font-size:28px;">Hello&nbsp;<img src="https://em-content.zobj.net/source/skype/295/waving-hand_1f44b.png" style="width: 23px;height: 23px;margin-left: 8px;">! I'm Ishan Singh</h1>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<h1 align="center" style="font-size:28px; font-family:'Montserrat';">Hello&nbsp;<img src="https://em-content.zobj.net/source/skype/295/waving-hand_1f44b.png" style="width: 23px;height: 23px;margin-left: 8px;">! I'm Ishan Singh</h1>
 
 ###
 
