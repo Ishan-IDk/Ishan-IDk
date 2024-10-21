@@ -67,6 +67,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ishan-IDk/Ishan-IDk/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ishan-IDk/Ishan-IDk/snake.svg" alt="Snake animation" />
 
 ###
