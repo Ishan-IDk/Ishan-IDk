@@ -5,15 +5,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
 <p align="left">- 🔭 I’m working on Project Zero<br>- 📚 I'm currently learning C++</p>
 
 ###
-<br>
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 <div align="left">
