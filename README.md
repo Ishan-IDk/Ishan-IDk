@@ -1,4 +1,4 @@
-<h2 align="center">Hello<img src="https://em-content.zobj.net/source/skype/295/waving-hand_1f44b.png">! I'm Ishan Singh</h2>
+<h2 align="center">Hello<img src="https://em-content.zobj.net/source/skype/295/waving-hand_1f44b.png" style="width:16px; height:16px;">! I'm Ishan Singh</h2>
 
 ###
 
