@@ -73,10 +73,5 @@
 
 ###
 
-<br clear="both">
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Ishan-IDk/Ishan-IDk/output/snake.svg" alt="Snake animation" />
-</div>
-
 
 ###
